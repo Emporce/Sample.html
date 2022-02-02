@@ -1,4 +1,3 @@
-# Sample
 
 <html>
 <body text="black">
